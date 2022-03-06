@@ -75,8 +75,7 @@
     - [Sidebars](#sidebars)
     - [Live Templates](#live-templates)
     - [Stay up to date!](#stay-up-to-date)
-  - [Credits/Thanks/Notes](#creditsthanksnotes)
-  - [Something else?](#something-else)
+
 
 ## Introduction
 
